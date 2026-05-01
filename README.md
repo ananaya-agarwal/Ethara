@@ -14,6 +14,13 @@ A full-stack collaborative task manager where teams can create projects, invite 
   - Tasks per user
   - Overdue tasks
 
+## Live Links
+- Frontend (Live App): https://extraordinary-intuition-production-f4f9.up.railway.app/
+- Backend (API Base): https://ethara-production-bd13.up.railway.app
+- GitHub Repository: https://github.com/ananaya-agarwal/Ethara
+
+---
+
 ## Tech Stack
 
 - Frontend: React + Vite + Axios
@@ -108,19 +115,3 @@ Deploy as **two services**:
 - Start command: `npm run preview -- --host 0.0.0.0 --port $PORT`
 - Env var:
   - `VITE_API_URL=https://<your-backend-domain>/api`
-
-## Submission Checklist
-
-- [ ] Live application URL (public)
-- [ ] GitHub repository URL
-- [ ] README with setup + deployment steps
-- [ ] 2-5 minute demo video
-
-## Suggested Demo Flow (2-5 min)
-
-1. Signup and login
-2. Create project (you become Admin)
-3. Add member by email
-4. Create and assign tasks
-5. Update task status
-6. Show dashboard metrics and overdue count
