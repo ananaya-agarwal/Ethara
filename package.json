@@ -1,0 +1,14 @@
+{
+  "name": "ethara",
+  "version": "1.0.0",
+  "description": "Full-stack team task manager assignment",
+  "scripts": {
+    "client:dev": "npm run dev --prefix client",
+    "server:dev": "npm run dev --prefix server",
+    "client:build": "npm run build --prefix client",
+    "server:start": "npm run start --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
